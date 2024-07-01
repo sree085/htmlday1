@@ -1,0 +1,7 @@
+console.log("welcome");
+console.error("not fount");
+alert("alert popup")
+
+
+to run 
+ node script.js
